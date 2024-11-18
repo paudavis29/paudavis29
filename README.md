@@ -1,5 +1,4 @@
-# 💫 About Me:
-Security enthusiast who is motivated by collaboration, innovatio<br>Effective problem solver who brings both technical aptitude and an understanding of business processes<br>Training at UNCC cybersecurity boot camp to soon earn a certificate in cybersecurity<br>
+
 
 
 ## 🌐 Socials:
